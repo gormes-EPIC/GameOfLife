@@ -5,7 +5,7 @@
 3. Pull the GameOfLife GitHub Repository from GitHub Classroom.
 4. Research Conway's Game of Life with the provided links.
 	1. You will be asked to write about your findings in your README.
-5. Create a private GitHub repository for your team to develop your code.
+5. Use a GitHub repository for your team to develop your code.
 	1. At the end of this project, there should be multiple commits. Do not just create your project on one machine and upload it to a shared GitHub when you are done.
 6. Implement the *oneGeneration()* method in the *LifeModel.java* file as described below. 
 7. Complete the questions on the README document.
