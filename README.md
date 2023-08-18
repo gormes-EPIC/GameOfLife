@@ -1,4 +1,3 @@
-
 # Lab 1: Conway's Game of Life
 ## Objective: Complete the program to implement Conway's Game of Life
 1. Create a GitHub account using your LPS email address and connect it to IntelliJ under the VCS menu.
@@ -43,8 +42,9 @@ Your *oneGeneration()* method must implement the rules of Conway's Game of Life 
 - **Enhance** your now working Life program!  Add in color, age, wrap-around grid, etc…  Be sure to talk about/explain your enhancement in your reflection and include a **video** demonstrating your additions
 
 ## Testing
-A sample run output for **generation 5** is given below.  Note, these are the correct answers if you use the provided data file "_life100.txt_".  If you let life run for a long time, it will oscillate between the last 3 patterns.  There are actually 6 patterns as the line of three keeps switching.
-![[GameOfLifePicture1 (1).png]] ![[GameOfLifePicture1 (2).png]] ![[GameOfLifePicture1 (3).png]]
+A sample run output for **generation 5** is given below.  Note, these are the correct answers if you use the provided data file "_life100.txt_".  If you let life run for a long time, it will oscillate between the last 3 patterns.  There are actually 6 patterns as the line of three keeps switching.![GameOfLifePicture1 (3)](https://github.com/gormes-EPIC/GameOfLife/assets/134316348/1b1e4ff8-6c15-4851-be86-93fbadae919a)
+![GameOfLifePicture1 (2)](https://github.com/gormes-EPIC/GameOfLife/assets/134316348/fb3cde51-def1-4c9c-a9c4-0496139dfca9)
+![GameOfLifePicture1 (1)](https://github.com/gormes-EPIC/GameOfLife/assets/134316348/a4ff0355-2bbd-497a-b9d5-d9871519fca5)
 
 ## Deliverable
 - Your Java project with a completed *LifeModel.java* file. Adhere to the Style Guidelines.
