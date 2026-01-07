@@ -15,11 +15,10 @@
 
 ### Getting Started
 
-1. Create a GitHub account using your personal mail address and connect it to IntelliJ under the VCS menu. 
-2. Connect your GitHub account to the GitHub Classroom via the Git & GitHub assignment in Google Classroom.
-3. Pull the GitHub Repository from GitHub Classroom for the starter code.
+1. Connect your GitHub account to IntelliJ under the Git menu using a **classic token**. 
+2. Pull the GitHub Repository from GitHub Classroom for the starter code.
+3. Implement the `oneGeneration()` method in the `LifeModel.java` file as described below. 
 4. Upload your assignment to GitHub when you are done and mark 'As Complete' on Google Classroom.
-6. Implement the `oneGeneration()` method in the `LifeModel.java` file as described below. 
 
 ### Conway's Game of Life
 
